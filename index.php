@@ -6,4 +6,6 @@
         echo "Ini isi dari main branch.";
         echo "<hr>";
         echo "Ini main yang diubah";
+        echo "Ini isi dari fitur-1 branch.";
+        echo "ini sudah di edit di branch Fitur-Baru"
 ?>
